@@ -1,7 +1,5 @@
 # Xbox UWP Drive Permission Tool
 
-Original tool created by **YTReviveMe**.
-
 This version keeps the original permission functionality and only includes a few cleanup and usability improvements.
 
 ## Changes Made
@@ -15,12 +13,7 @@ This version keeps the original permission functionality and only includes a few
 
 ## Build
 
-Open the solution in Visual Studio and build the project normally.
-
-The final user-facing executable is:
-
-`XB Drive Tool.exe`
-
+Open the solution in Visual Studio and build the project normally
 ## Credits
 
 Original tool created by **YTReviveMe**.
