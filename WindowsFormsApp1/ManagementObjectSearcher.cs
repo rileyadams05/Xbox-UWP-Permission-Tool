@@ -5,7 +5,7 @@ namespace XboxDrivePermissionTool
 {
     internal class ManagementObjectSearcher
     {
-        private string v;
+        private readonly string v;
 
         public ManagementObjectSearcher(string v)
         {
